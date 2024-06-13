@@ -1,0 +1,218 @@
+{
+  "ver": "2.2.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "89132a1c-e228-43d4-9296-5a62e7a54c2e",
+  "files": [],
+  "subMetas": {
+    "24362": {
+      "importer": "gltf-mesh",
+      "uuid": "89132a1c-e228-43d4-9296-5a62e7a54c2e@24362",
+      "displayName": "",
+      "id": "24362",
+      "name": "rifle_Material0.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aced3": {
+      "importer": "gltf-mesh",
+      "uuid": "89132a1c-e228-43d4-9296-5a62e7a54c2e@aced3",
+      "displayName": "",
+      "id": "aced3",
+      "name": "AgentBody_001_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "89132a1c-e228-43d4-9296-5a62e7a54c2e@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 28
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0c6d5": {
+      "importer": "gltf-material",
+      "uuid": "89132a1c-e228-43d4-9296-5a62e7a54c2e@0c6d5",
+      "displayName": "",
+      "id": "0c6d5",
+      "name": "__Object08_0_1_16_16_Tra_003_1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ee542": {
+      "importer": "gltf-material",
+      "uuid": "89132a1c-e228-43d4-9296-5a62e7a54c2e@ee542",
+      "displayName": "",
+      "id": "ee542",
+      "name": "Ga_Skin_Body_Pbr_003.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "20d43": {
+      "importer": "gltf-material",
+      "uuid": "89132a1c-e228-43d4-9296-5a62e7a54c2e@20d43",
+      "displayName": "",
+      "id": "20d43",
+      "name": "__Object05_0_1_16_16_Tra_003.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cea38": {
+      "importer": "gltf-material",
+      "uuid": "89132a1c-e228-43d4-9296-5a62e7a54c2e@cea38",
+      "displayName": "",
+      "id": "cea38",
+      "name": "Camera_003.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "449f2": {
+      "importer": "gltf-material",
+      "uuid": "89132a1c-e228-43d4-9296-5a62e7a54c2e@449f2",
+      "displayName": "",
+      "id": "449f2",
+      "name": "Black_AssaultRIfle_01.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f1a54": {
+      "importer": "gltf-material",
+      "uuid": "89132a1c-e228-43d4-9296-5a62e7a54c2e@f1a54",
+      "displayName": "",
+      "id": "f1a54",
+      "name": "Brown_AssaultRIfle_01.material",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "08f7f": {
+      "importer": "gltf-material",
+      "uuid": "89132a1c-e228-43d4-9296-5a62e7a54c2e@08f7f",
+      "displayName": "",
+      "id": "08f7f",
+      "name": "Gray_AssaultRIfle_01.material",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "56a84": {
+      "importer": "gltf-scene",
+      "uuid": "89132a1c-e228-43d4-9296-5a62e7a54c2e@56a84",
+      "displayName": "",
+      "id": "56a84",
+      "name": "SkibidiCamera.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "89132a1c-e228-43d4-9296-5a62e7a54c2e@56a84",
+    "assetFinder": {
+      "meshes": [
+        "89132a1c-e228-43d4-9296-5a62e7a54c2e@aced3",
+        "89132a1c-e228-43d4-9296-5a62e7a54c2e@24362"
+      ],
+      "skeletons": [
+        "89132a1c-e228-43d4-9296-5a62e7a54c2e@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "89132a1c-e228-43d4-9296-5a62e7a54c2e@0c6d5",
+        "89132a1c-e228-43d4-9296-5a62e7a54c2e@ee542",
+        "89132a1c-e228-43d4-9296-5a62e7a54c2e@20d43",
+        "89132a1c-e228-43d4-9296-5a62e7a54c2e@cea38",
+        "89132a1c-e228-43d4-9296-5a62e7a54c2e@449f2",
+        "89132a1c-e228-43d4-9296-5a62e7a54c2e@f1a54",
+        "89132a1c-e228-43d4-9296-5a62e7a54c2e@08f7f"
+      ],
+      "scenes": [
+        "89132a1c-e228-43d4-9296-5a62e7a54c2e@56a84"
+      ]
+    }
+  }
+}

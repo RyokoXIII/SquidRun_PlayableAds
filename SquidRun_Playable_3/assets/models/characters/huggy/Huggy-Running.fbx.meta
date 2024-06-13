@@ -1,0 +1,100 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a8c2babe-a291-41c3-bb91-7509242e65f2",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "f484f": {
+      "importer": "gltf-mesh",
+      "uuid": "a8c2babe-a291-41c3-bb91-7509242e65f2@f484f",
+      "displayName": "",
+      "id": "f484f",
+      "name": "mixamo:Huggy_Wuggy.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cf5ee": {
+      "importer": "gltf-animation",
+      "uuid": "a8c2babe-a291-41c3-bb91-7509242e65f2@cf5ee",
+      "displayName": "",
+      "id": "cf5ee",
+      "name": "run.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.625
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "e8dc3": {
+      "importer": "gltf-scene",
+      "uuid": "a8c2babe-a291-41c3-bb91-7509242e65f2@e8dc3",
+      "displayName": "",
+      "id": "e8dc3",
+      "name": "Huggy-Running.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 0.625,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "run",
+            "from": 0,
+            "to": 0.625,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "a8c2babe-a291-41c3-bb91-7509242e65f2@e8dc3",
+    "assetFinder": {
+      "meshes": [
+        "a8c2babe-a291-41c3-bb91-7509242e65f2@f484f"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "a8c2babe-a291-41c3-bb91-7509242e65f2@e8dc3"
+      ]
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "ver": "2.2.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fd671008-902e-4dc4-a7a5-82f8857bfa58",
+  "files": [],
+  "subMetas": {
+    "10678": {
+      "importer": "gltf-material",
+      "uuid": "fd671008-902e-4dc4-a7a5-82f8857bfa58@10678",
+      "displayName": "",
+      "id": "10678",
+      "name": "Black_sniper01.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "25079": {
+      "importer": "gltf-scene",
+      "uuid": "fd671008-902e-4dc4-a7a5-82f8857bfa58@25079",
+      "displayName": "",
+      "id": "25079",
+      "name": "squid_man.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b1cff": {
+      "importer": "gltf-mesh",
+      "uuid": "fd671008-902e-4dc4-a7a5-82f8857bfa58@b1cff",
+      "displayName": "",
+      "id": "b1cff",
+      "name": "sniper_gun_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a62fe": {
+      "importer": "gltf-mesh",
+      "uuid": "fd671008-902e-4dc4-a7a5-82f8857bfa58@a62fe",
+      "displayName": "",
+      "id": "a62fe",
+      "name": "Scene.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "fd671008-902e-4dc4-a7a5-82f8857bfa58@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 38
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fd2c2": {
+      "importer": "gltf-material",
+      "uuid": "fd671008-902e-4dc4-a7a5-82f8857bfa58@fd2c2",
+      "displayName": "",
+      "id": "fd2c2",
+      "name": "Brown_Sniper01.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a27a1": {
+      "importer": "gltf-material",
+      "uuid": "fd671008-902e-4dc4-a7a5-82f8857bfa58@a27a1",
+      "displayName": "",
+      "id": "a27a1",
+      "name": "Gray_Sniper_01.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4d264": {
+      "importer": "gltf-material",
+      "uuid": "fd671008-902e-4dc4-a7a5-82f8857bfa58@4d264",
+      "displayName": "",
+      "id": "4d264",
+      "name": "White_Sniper01.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "002de": {
+      "importer": "gltf-material",
+      "uuid": "fd671008-902e-4dc4-a7a5-82f8857bfa58@002de",
+      "displayName": "",
+      "id": "002de",
+      "name": "Squid_Man.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "fd671008-902e-4dc4-a7a5-82f8857bfa58@25079",
+    "assetFinder": {
+      "meshes": [
+        "fd671008-902e-4dc4-a7a5-82f8857bfa58@b1cff",
+        "fd671008-902e-4dc4-a7a5-82f8857bfa58@a62fe"
+      ],
+      "skeletons": [
+        "fd671008-902e-4dc4-a7a5-82f8857bfa58@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "fd671008-902e-4dc4-a7a5-82f8857bfa58@fd2c2",
+        "fd671008-902e-4dc4-a7a5-82f8857bfa58@10678",
+        "fd671008-902e-4dc4-a7a5-82f8857bfa58@a27a1",
+        "fd671008-902e-4dc4-a7a5-82f8857bfa58@4d264",
+        "fd671008-902e-4dc4-a7a5-82f8857bfa58@002de"
+      ],
+      "scenes": [
+        "fd671008-902e-4dc4-a7a5-82f8857bfa58@25079"
+      ]
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "ver": "2.2.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2adb6664-0ed2-4a90-a320-ee2b1d1ca797",
+  "files": [],
+  "subMetas": {
+    "9fe24": {
+      "importer": "gltf-mesh",
+      "uuid": "2adb6664-0ed2-4a90-a320-ee2b1d1ca797@9fe24",
+      "displayName": "",
+      "id": "9fe24",
+      "name": "Kim_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e1f45": {
+      "importer": "gltf-material",
+      "uuid": "2adb6664-0ed2-4a90-a320-ee2b1d1ca797@e1f45",
+      "displayName": "",
+      "id": "e1f45",
+      "name": "Material #118.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1d6cd": {
+      "importer": "gltf-material",
+      "uuid": "2adb6664-0ed2-4a90-a320-ee2b1d1ca797@1d6cd",
+      "displayName": "",
+      "id": "1d6cd",
+      "name": "Material #119.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "242c0": {
+      "importer": "gltf-scene",
+      "uuid": "2adb6664-0ed2-4a90-a320-ee2b1d1ca797@242c0",
+      "displayName": "",
+      "id": "242c0",
+      "name": "Kim.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "2adb6664-0ed2-4a90-a320-ee2b1d1ca797@242c0",
+    "assetFinder": {
+      "meshes": [
+        "2adb6664-0ed2-4a90-a320-ee2b1d1ca797@9fe24"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "2adb6664-0ed2-4a90-a320-ee2b1d1ca797@e1f45",
+        "2adb6664-0ed2-4a90-a320-ee2b1d1ca797@1d6cd"
+      ],
+      "scenes": [
+        "2adb6664-0ed2-4a90-a320-ee2b1d1ca797@242c0"
+      ]
+    }
+  }
+}

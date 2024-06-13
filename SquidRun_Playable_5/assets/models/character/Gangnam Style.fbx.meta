@@ -1,0 +1,117 @@
+{
+  "ver": "2.2.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "58cd5e77-e03a-4360-8067-1ba4db13f496",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "89b87": {
+      "importer": "gltf-mesh",
+      "uuid": "58cd5e77-e03a-4360-8067-1ba4db13f496@89b87",
+      "displayName": "",
+      "id": "89b87",
+      "name": "mixamo:Body_001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "047e2": {
+      "importer": "gltf-mesh",
+      "uuid": "58cd5e77-e03a-4360-8067-1ba4db13f496@047e2",
+      "displayName": "",
+      "id": "047e2",
+      "name": "mixamo:toc_nhan_vat_chinh.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "18d6f": {
+      "importer": "gltf-animation",
+      "uuid": "58cd5e77-e03a-4360-8067-1ba4db13f496@18d6f",
+      "displayName": "",
+      "id": "18d6f",
+      "name": "mixamo.com.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 12.333333015441895
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "350b8": {
+      "importer": "gltf-scene",
+      "uuid": "58cd5e77-e03a-4360-8067-1ba4db13f496@350b8",
+      "displayName": "",
+      "id": "350b8",
+      "name": "Gangnam Style.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 12.333333015441895,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "mixamo.com",
+            "from": 0,
+            "to": 12.333333015441895,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "58cd5e77-e03a-4360-8067-1ba4db13f496@350b8",
+    "assetFinder": {
+      "meshes": [
+        "58cd5e77-e03a-4360-8067-1ba4db13f496@89b87",
+        "58cd5e77-e03a-4360-8067-1ba4db13f496@047e2"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "58cd5e77-e03a-4360-8067-1ba4db13f496@350b8"
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1f9ace0c-03a4-4c1c-9262-c0d011fa3962",
+  "files": [],
+  "subMetas": {
+    "3462a": {
+      "importer": "gltf-mesh",
+      "uuid": "1f9ace0c-03a4-4c1c-9262-c0d011fa3962@3462a",
+      "displayName": "",
+      "id": "3462a",
+      "name": "Squid-doll-head_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "1f9ace0c-03a4-4c1c-9262-c0d011fa3962@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 29
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0985b": {
+      "importer": "gltf-scene",
+      "uuid": "1f9ace0c-03a4-4c1c-9262-c0d011fa3962@0985b",
+      "displayName": "",
+      "id": "0985b",
+      "name": "DOLL.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "1f9ace0c-03a4-4c1c-9262-c0d011fa3962@0985b",
+    "assetFinder": {
+      "meshes": [
+        "1f9ace0c-03a4-4c1c-9262-c0d011fa3962@3462a"
+      ],
+      "skeletons": [
+        "1f9ace0c-03a4-4c1c-9262-c0d011fa3962@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "c18e9441-1bf6-4081-a7e7-f68140d7db10",
+        "947ecf02-4839-4c75-865d-07b6471664d9",
+        "d0c381ef-15e9-44f0-92af-111d67771284",
+        "f9b6b1da-e06f-4a55-8de1-e104dfe7a4d6",
+        "7fe1ac31-bc20-4af1-8149-269696bccadf",
+        "69092b8b-7489-4f2f-8cbf-ae03aa118df2",
+        "05eeb98a-8386-49e9-9fa8-dfafb4f25711",
+        "b8f5f77a-d32d-4b49-a8e6-eafb8185ef40",
+        "c9363fe6-66ba-4797-9d08-45a0b73312d9"
+      ],
+      "scenes": [
+        "1f9ace0c-03a4-4c1c-9262-c0d011fa3962@0985b"
+      ]
+    },
+    "meshOptimizer": false,
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/models/Enemy/Materials_DOLL",
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}

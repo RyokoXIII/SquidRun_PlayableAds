@@ -1,0 +1,117 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c7e5c390-2cc3-4687-a801-bf7e188c12d5",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "89b87": {
+      "importer": "gltf-mesh",
+      "uuid": "c7e5c390-2cc3-4687-a801-bf7e188c12d5@89b87",
+      "displayName": "",
+      "id": "89b87",
+      "name": "mixamo:Body_001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "047e2": {
+      "importer": "gltf-mesh",
+      "uuid": "c7e5c390-2cc3-4687-a801-bf7e188c12d5@047e2",
+      "displayName": "",
+      "id": "047e2",
+      "name": "mixamo:toc_nhan_vat_chinh.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6f220": {
+      "importer": "gltf-animation",
+      "uuid": "c7e5c390-2cc3-4687-a801-bf7e188c12d5@6f220",
+      "displayName": "",
+      "id": "6f220",
+      "name": "fall.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.7083333730697632
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "7581b": {
+      "importer": "gltf-scene",
+      "uuid": "c7e5c390-2cc3-4687-a801-bf7e188c12d5@7581b",
+      "displayName": "",
+      "id": "7581b",
+      "name": "Falling.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "mixamo.com",
+        "duration": 1.7083333730697632,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "fall",
+            "from": 0,
+            "to": 1.7083333730697632,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "c7e5c390-2cc3-4687-a801-bf7e188c12d5@7581b",
+    "assetFinder": {
+      "meshes": [
+        "c7e5c390-2cc3-4687-a801-bf7e188c12d5@89b87",
+        "c7e5c390-2cc3-4687-a801-bf7e188c12d5@047e2"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "c7e5c390-2cc3-4687-a801-bf7e188c12d5@7581b"
+      ]
+    }
+  }
+}

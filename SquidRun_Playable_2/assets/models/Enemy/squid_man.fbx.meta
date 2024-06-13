@@ -1,0 +1,106 @@
+{
+  "ver": "2.3.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "94f55bb0-878f-46e0-bc0e-e4472bcdc9f3",
+  "files": [],
+  "subMetas": {
+    "25079": {
+      "importer": "gltf-scene",
+      "uuid": "94f55bb0-878f-46e0-bc0e-e4472bcdc9f3@25079",
+      "displayName": "",
+      "id": "25079",
+      "name": "squid_man.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b1cff": {
+      "importer": "gltf-mesh",
+      "uuid": "94f55bb0-878f-46e0-bc0e-e4472bcdc9f3@b1cff",
+      "displayName": "",
+      "id": "b1cff",
+      "name": "sniper_gun_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a62fe": {
+      "importer": "gltf-mesh",
+      "uuid": "94f55bb0-878f-46e0-bc0e-e4472bcdc9f3@a62fe",
+      "displayName": "",
+      "id": "a62fe",
+      "name": "Scene.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "94f55bb0-878f-46e0-bc0e-e4472bcdc9f3@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 38
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "94f55bb0-878f-46e0-bc0e-e4472bcdc9f3@25079",
+    "assetFinder": {
+      "meshes": [
+        "94f55bb0-878f-46e0-bc0e-e4472bcdc9f3@b1cff",
+        "94f55bb0-878f-46e0-bc0e-e4472bcdc9f3@a62fe"
+      ],
+      "skeletons": [
+        "94f55bb0-878f-46e0-bc0e-e4472bcdc9f3@438fe"
+      ],
+      "textures": [],
+      "materials": [
+        "3ca07b17-8c98-4202-b7b1-965ed65efeb9",
+        "9bde9705-f755-46f6-b638-818e637bcf88",
+        "49129799-ffff-4017-ad91-2378ef37a574",
+        "6df210a0-ab5c-4437-bf4a-f199057ef7b5",
+        "516b0d09-fad8-4e3a-9b83-442e1bc17bb0"
+      ],
+      "scenes": [
+        "94f55bb0-878f-46e0-bc0e-e4472bcdc9f3@25079"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/models/Enemy/Materials_squid_man",
+    "fbx": {
+      "smartMaterialEnabled": false
+    }
+  }
+}
